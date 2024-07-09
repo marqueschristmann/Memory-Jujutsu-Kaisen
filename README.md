@@ -1,7 +1,8 @@
 <h2 align="center">Portfólio Pessoal <br/> <a target="_blank" href="">MarquesChristman</a></h2>
 
 <br/>
-# Memory Game
+
+## Memory Game Jujutsu-Kaisen
 
 Este é um jogo de memória onde o objetivo é encontrar todos os pares de cartas correspondentes no menor tempo possível.
 
@@ -45,7 +46,7 @@ Este é um jogo de memória onde o objetivo é encontrar todos os pares de carta
 2. Navegue até o diretório do projeto:
 
    ```sh
-   cd memory-game
+   cd Memória-Jujutsu-Kaisen
    ```
 
 3. Abra o arquivo `index.html` no seu navegador:
